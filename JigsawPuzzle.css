@@ -1,0 +1,16 @@
+body {
+    background-color: #152238;
+}
+
+h2 {
+    text-align: center; 
+    color: white;
+}
+
+#puzzle-background-gif {
+    text-align: center;
+}
+
+#puzzle-pieces-imgs {
+    margin-bottom: 500px;
+}
